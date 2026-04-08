@@ -119,9 +119,9 @@ const parts = [
   {
     category: "Peripherals",
     name: "Microphone",
-    model: "Maono Wave T1 Mini",
+    model: "Fifine A6T AmpliGame",
     image: "/images/peripherals/mic.jpg",
-    link: "https://shopee.ph/product/306496455/27075267598?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkZUxlMGtIQkg0REF1dmhYUEdjQkRVd2dMMFJ1TFY5SkgxdGR5OTBkckp3WlIrTUZ1UFdvSDdmZi81UlZsc3RqWVhGeUpqZnZvc1liL1BnVkN1MnFmYzFnVDhtZ0VrcnlmVmF0UGd1V0lwUXE&gad_campaignid=22282944681",
+    link: "https://shopee.ph/-CLEARANCE-Fifine-A6T-AmpliGame-USB-Wired-Cardioid-Condenser-Microphone-with-Two-Tone-RGB-Light-i.15328948.19863468869",
   },
   {
     category: "Peripherals",
